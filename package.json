@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A simple microservice to return a JSON date representation using a route parameter.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Pham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
